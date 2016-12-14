@@ -1,0 +1,33 @@
+{
+  "archived_at":null,
+  "buildpack_provided_description":null,
+  "build_stack":{
+    "id":"f9f9cbd7-2970-41ef-8db5-3df7123b041f",
+    "name":"cedar-14"
+  },
+  "created_at":"2016-12-14T07:45:17Z",
+  "id":"7fd406dc-8fd0-41af-8600-2783fcaa6e41",
+  "git_url":"https://git.heroku.com/shrouded-refuge-71606.git",
+  "maintenance":false,
+  "name":"shrouded-refuge-71606",
+  "owner":{
+    "email":"alu0100536690@ull.edu.es",
+    "id":"e789f7c1-e705-4402-9d53-b5f679502d77"
+  },
+  "region":{
+    "id":"59accabd-516d-4f0e-83e6-6e3757701145",
+    "name":"us"
+  },
+  "organization":null,
+  "space":null,
+  "released_at":"2016-12-14T07:45:17Z",
+  "repo_size":null,
+  "slug_size":null,
+  "stack":{
+    "id":"f9f9cbd7-2970-41ef-8db5-3df7123b041f",
+    "name":"cedar-14"
+  },
+  "updated_at":"2016-12-14T07:45:17Z",
+  "web_url":"https://shrouded-refuge-71606.herokuapp.com/"
+}
+
